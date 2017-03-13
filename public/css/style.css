@@ -1,0 +1,10 @@
+.yanoo-brand:hover {
+    -webkit-animation: swing .5s;
+    animation: swing .5s;
+}
+.parallax-container {
+	height: 580px;
+}
+.yanoo-members {
+	margin-top: 50px;
+}
